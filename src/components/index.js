@@ -1,5 +1,4 @@
-export { AsideRightCard } from "../components/AsideRightCard"
-export { ProfileToFollow } from "../components/ProfileToFollow"
-
-export * from AsideRightCard
-export * from ProfileToFollow
+export { AsideRightCard } from "./AsideRightCard";
+export { ProfileToFollow } from "./ProfileToFollow";
+export { News } from "./News";
+// export { TwitterLinks } from "./TwitterLinks";
